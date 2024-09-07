@@ -1,0 +1,54 @@
+body {
+  font-family: Verdana, sans-serif;
+  background: none;
+  background-color: #3c3c3c;
+  }
+  .popupBox {
+    width: 175px;
+    height: 80px; 
+    display: flex;
+    flex-direction: column;
+    color: #e3e3e3;
+  }
+  .popupInfoTitle {
+    font-weight: 540;
+    margin: auto;
+    padding: 12px 0px 12px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .popupInfoBox {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    cursor: pointer;
+    border-bottom: 1px solid #686868;
+  }
+  .popupInfoBox:hover {
+    background-color: rgba(214, 214, 214, 0.185);
+  }
+  .popupColorBox {
+    padding: 6px 0px 2px 0px;
+    margin: 6px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .popupColorView {
+    width: 50px;
+    height: 20px;
+    background-color: rgb(10, 107, 244);
+    border-radius: 6px; 
+  }
+  .popupColorHexValue {
+    margin-left: 8px;
+    text-transform: uppercase;
+  }
+  .popupNotify {
+    margin-top: 8px;
+    text-align: center;
+    color: #4aa758;
+    font-weight: bold;
+    border-radius: 8px;
+  }
