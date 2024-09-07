@@ -1,4 +1,5 @@
-# Colormeleon for Chrome and Brave
+
+# Colormeleon for Chrome and Brave ![picker_48](https://github.com/user-attachments/assets/33801d8c-902b-4253-8c28-051c7b24d174)
 
 **Colormeleon** is an extension for color picking designed for Google Chrome and Brave browsers.
 
