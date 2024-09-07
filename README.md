@@ -3,6 +3,8 @@
 
 **Colormeleon** is an extension for color picking designed for Google Chrome and Brave browsers.
 
+![image](https://github.com/user-attachments/assets/eb56f80d-397d-4725-9092-225d6a149a66)
+
 ## Languages Used:
 - HTML
 - CSS
@@ -20,6 +22,6 @@ The icons, if you wish, can be simple `.png` images used as logos in different s
 
 ## Features:
 
-When you click on the extension icon, the user interface (UI) shows a button labeled “Pick color from screen”. Clicking this button allows you to select any part of your screen. Once a color is picked, the selected color and its hex value will be displayed within the extension.
+When you click on the extension icon, the user interface (UI) shows a button labeled “Pick color from screen”. Clicking this button allows you to select any part of your screen. Wherever you click, the selected color and its hex value will be displayed within the extension.
 
 Enjoy picking colors with ease!
